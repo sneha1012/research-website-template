@@ -26,7 +26,7 @@ export const aboutMe: AboutMe = {
     "I'm a first year <a href='https://www.engineering.columbia.edu'> Master's candidate</a> working at the intersection of NLP and HCI. My interests broadly span Machine learning, Systems, Natural Language Procesing, and Computer Vision. I focus on developing robust, interpretable systems that can leverage Large Distributed Models to help humans improve their efficiency.",
   email: "sm5755@columbia.edu",
   imageUrl:
-    "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://github.com/sneha1012/sneha1012.github.io/blob/main/images/IMG_2223_2.jpg#:~:text=IMG_2223_2.jpg",
   githubUsername: "https://github.com/sneha1012",
   linkedinUsername: "https://www.linkedin.com/in/snehamaurya10/",
   bluesky: "https://bsky.app/profile/snehamaurya.bsky.social",
